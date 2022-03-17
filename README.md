@@ -9,7 +9,7 @@ Rescue is a game entirely based in Javascript, CSS3 and HTML5. The JQuery librar
 
 ## Execution
 
-Use this link to test the project => https://leffmarques.github.io/jogo-helicoptero/
+Use this link to test the project => https://leffmarques.github.io/rescue-game/
 
 ## Contributions
 Pull requests are welcome. For greater changes, please open an issue first to discuss what you would like to change.
