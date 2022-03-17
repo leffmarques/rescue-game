@@ -4,7 +4,7 @@ Rescue is a game entirely based in Javascript, CSS3 and HTML5. The JQuery librar
 
 ## Visuals
 <p float="left">
-  <img src="https://github.com/leffmarques/jogo-helicoptero/blob/main/imgs/intro.gif" width="300" />
+  <img src="https://github.com/leffmarques/rescue-game/blob/main/imgs/intro.gif" width="550" />
 </p>
 
 ## Execution
@@ -18,4 +18,4 @@ Please make sure to update tests as appropriate.
 
 ## Support
 My contacts here: 
-[Linkedin](https://www.linkedin.com/in/aleff-amorim/)
+[Linkedin](https://www.linkedin.com/in/aleff-marques/)
